@@ -1,5 +1,9 @@
 # react-monorepo
 
+yarn install
+cd package/my-app
+yarn start
+
 //reference links
 https://medium.com/@jsilvax/a-workflow-guide-for-lerna-with-yarn-workspaces-60f97481149d
 https://jibin.tech/monorepo-with-create-react-app/
