@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+## yarn install
+## lerna bootstrap
+## cd package/my-app
+## yarn start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
